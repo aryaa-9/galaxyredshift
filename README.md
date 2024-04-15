@@ -7,7 +7,7 @@ eg: Galaxy appears green in the SDSS telescope
 
   
 The spectrum of the Green pea galaxy (a Rapidly star-forming galaxy) is observed. The spectrum has a Gaussian profile 
-(as shown in the spec.png - https://github.com/aryaa-9/galaxyredshift/blob/main/fitted_data.png)
+(as shown in the spec.png - https://github.com/aryaa-9/galaxyredshift/blob/main/fitted_data.png).
 If we select the strongest peak which is the forbidden Oxygen O(III) peaks in the range 6450 and 6600 nm 
 (selectedwavelengths.png - https://github.com/aryaa-9/galaxyredshift/blob/main/selectedwavelegth.png, 
 we can determine the redshift, as well as find the speed of the galaxy (non-relativistic case)
